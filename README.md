@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saradhiii
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML CSS nd JavaScript
-- 💞️ I’m looking to collaborate on projects which deals with frontend
 - 📫 How to reach me bsrivarunasaradhi@gmail.com
 
 <!---
